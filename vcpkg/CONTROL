@@ -1,4 +1,0 @@
-Source: ros-dashing-unique-identifier-msgs
-Version: 2.1.0
-Description: ROS messages for universally unique identifiers.
-Build-Depends:
